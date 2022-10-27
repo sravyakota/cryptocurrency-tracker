@@ -1,0 +1,53 @@
+/* Write your CSS code here */
+.currency-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+.heading {
+  font-size: 52px;
+  font-weight: bold;
+  font-family: 'roboto';
+  color: #00e7ff;
+  align-self: center;
+}
+.currency-list {
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 10px;
+  border-color: #00e7ff;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  list-style-type: none;
+  margin-left: 0px;
+}
+.list-headings {
+  background-color: #092e33;
+  font-size: 26px;
+  font-family: 'roboto';
+  color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  margin-bottom: 5px;
+}
+.usd-euro-details {
+  font-size: 26px;
+  font-weight: bold;
+  font-family: 'roboto';
+  color: #ffffff;
+  align-self: center;
+  display: flex;
+  flex-direction: row;
+}
+.para {
+  font-size: 26px;
+  font-family: 'roboto';
+  color: #ffffff;
+  align-self: center;
+  margin: 20px;
+  width: 150px;
+}

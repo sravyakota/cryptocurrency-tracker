@@ -1,0 +1,16 @@
+/* Write your CSS code here */
+.logos {
+  height: 30px;
+  width: 30px;
+  margin-top: 20px;
+}
+.list-items {
+  font-size: 26px;
+  font-family: 'roboto';
+  color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  margin-bottom: 5px;
+}
